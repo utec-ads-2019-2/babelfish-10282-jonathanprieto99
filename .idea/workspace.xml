@@ -36,6 +36,7 @@
   <component name="ChangeListManager">
     <list default="true" id="be9fa4ba-7079-499a-8e75-7806dd77a6a7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/babelfish-10282-jonathanprieto99.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/babelfish-10282-jonathanprieto99.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,6 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573056405545</updated>
       <workItem from="1573056408862" duration="1004000" />
+      <workItem from="1573082599513" duration="2490000" />
     </task>
     <task id="LOCAL-00001" summary="First Upload">
       <created>1573056626322</created>
@@ -110,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573056626323</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="PDF">
+      <created>1573082631575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573082631575</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +130,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -129,6 +140,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Upload" />
+    <MESSAGE value="PDF" />
+    <option name="LAST_COMMIT_MESSAGE" value="PDF" />
   </component>
 </project>
