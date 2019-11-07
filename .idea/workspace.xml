@@ -35,8 +35,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be9fa4ba-7079-499a-8e75-7806dd77a6a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/babelfish-10282-jonathanprieto99.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/babelfish-10282-jonathanprieto99.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573056405545</updated>
       <workItem from="1573056408862" duration="1004000" />
-      <workItem from="1573082599513" duration="2490000" />
+      <workItem from="1573082599513" duration="2615000" />
     </task>
     <task id="LOCAL-00001" summary="First Upload">
       <created>1573056626322</created>
@@ -119,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573082631575</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="OK">
+      <created>1573085217343</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573085217344</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Upload" />
     <MESSAGE value="PDF" />
-    <option name="LAST_COMMIT_MESSAGE" value="PDF" />
+    <MESSAGE value="OK" />
+    <option name="LAST_COMMIT_MESSAGE" value="OK" />
   </component>
 </project>

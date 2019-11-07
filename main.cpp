@@ -36,7 +36,5 @@ int main(){
     while (cin>>buscar){
         cout<<resultado(palabras,buscar)<<endl;
     }
-
-
     return 0;
 }
