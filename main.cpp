@@ -29,7 +29,7 @@ int main(){
             break;
         }
         istringstream lineanueva(linea);
-        lineanueva>>a>>b;
+        lineanueva>>b>>a;
         ingresar_map(a,b,palabras);
     }
 

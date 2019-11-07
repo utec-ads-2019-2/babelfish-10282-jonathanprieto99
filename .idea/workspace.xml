@@ -35,6 +35,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be9fa4ba-7079-499a-8e75-7806dd77a6a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/babelfish-10282-jonathanprieto99.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/babelfish-10282-jonathanprieto99.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/babelfish-10282-jonathanprieto99" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/babelfish-10282-jonathanprieto99" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,7 +104,8 @@
       <option name="presentableId" value="Default" />
       <updated>1573056405545</updated>
       <workItem from="1573056408862" duration="1004000" />
-      <workItem from="1573082599513" duration="2615000" />
+      <workItem from="1573082599513" duration="2646000" />
+      <workItem from="1573087647899" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="First Upload">
       <created>1573056626322</created>
@@ -124,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573085217344</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="OK">
+      <created>1573085278697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573085278697</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
